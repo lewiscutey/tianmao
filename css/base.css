@@ -1,0 +1,18 @@
+body,h1,h2,h3,h4,h5,h6,form,input,ul,ol,li{
+margin:0px;
+padding:0px;
+list-style:none;
+}
+*{
+  font-family: "Microsoft YaHei",tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+  font-size:16px;
+  color:#b0b0b0;
+  }
+a{
+  text-decoration:none;}
+img{
+  border:none;
+  }
+body{
+	overflow-x: hidden;
+}
